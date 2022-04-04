@@ -10,9 +10,11 @@ This list will seek to capture every company that uses LaserShip, so you can cho
 # Where
 Currently this list resides on GitHub.  Future iterations may be elsewhere. The [@LasershipS Twitter handle](https://twitter.com/LasershipS) will have the canonical pointer to this data.
 
+As for where LaserShip operates, a TODO is to create a list of where they operate based on [Their independent contractor hiring page](https://lasership.com/drivers/).
+
 # When
 Updates to this doc this document will occur based on a few things:
-* Confirmation that a company is using LaserShip in some capacity (Either by cursory research 
+* Confirmation that a company is using LaserShip in some capacity
 * Someone reaching out on the [@LasershipS Twitter handle](https://twitter.com/LasershipS) to offer up new information
 * Pull requests that seem sane (Adding or removing)
 
