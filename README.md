@@ -21,7 +21,19 @@ Updates to this doc this document will occur based on a few things:
 # Why
 Lasership, in a multitude of interactions across a vast number of people, has been absolutely horrible to work with.  Their customer service doesn't particularly care, and the levers of change at a managerial level to make things better don't care either.  It stands to reason that by refusing to work with companies that work with LaserShip, companies will stop working with them.
 
+# How
+If you're looking for recourse, your options are limited, and some are more powerful methods of recourse than others.
+
+1. Reach out to your local news organizations.  Local TV loves to cover stuff like this because it makes them look like they are sticking up for the little guy.
+2. File a complaint with your state's Attorney General, which you can find in [This convenient list](https://www.naag.org/find-my-ag/).
+3. File a complaint with the [Better Business Bureau](https://www.bbb.org/).
+4. File a report with the [Federal Trade Commission](https://reportfraud.ftc.gov/#/).
+5. We all know at this point that complaining about LaserShip to the retailers below doesn't help, but if you've purchased from them, do it anyway.  Complain.  Keep complaining.  Demand to speak to supervisors.  Demand to speak to their supervisors.  Go on LinkedIn, find the people who make decisions at that company, and complain to them too.
+6. File a chargeback with your bank, credit card company, or payment processor (E.G.: Paypal).  Time limits vary from place to place (Though these time limits are often extended when goods are not received), so get on it ASAP.
+
 # The List
+The list is unordered, use search capabilities in your browser to look for merchants.
+
 * Amazon (Varies by where you are, not every region uses LaserShip)
 * Blue Apron 
 * Adidas
@@ -60,3 +72,7 @@ Lasership, in a multitude of interactions across a vast number of people, has be
 * Kohl's
 * Lego.com
 * BuiltBar
+* Columbia
+* FabFitFun
+* Misfits Market
+* 
