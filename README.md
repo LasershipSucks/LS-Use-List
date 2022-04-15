@@ -75,4 +75,8 @@ The list is unordered, use search capabilities in your browser to look for merch
 * Columbia
 * FabFitFun
 * Misfits Market
-* 
+* Academy Sports + Outdoors
+* Macy's
+* ShoeDazzle
+* Nautica
+* Warby Parker
