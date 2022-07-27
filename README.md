@@ -80,3 +80,6 @@ The list is unordered, use search capabilities in your browser to look for merch
 * ShoeDazzle
 * Nautica
 * Warby Parker
+* Freshly
+* Lids 
+* UniqLo
