@@ -30,6 +30,7 @@ If you're looking for recourse, your options are limited, and some are more powe
 4. File a report with the [Federal Trade Commission](https://reportfraud.ftc.gov/#/).
 5. We all know at this point that complaining about LaserShip to the retailers below doesn't help, but if you've purchased from them, do it anyway.  Complain.  Keep complaining.  Demand to speak to supervisors.  Demand to speak to their supervisors.  Go on LinkedIn, find the people who make decisions at that company, and complain to them too.
 6. File a chargeback with your bank, credit card company, or payment processor (E.G.: Paypal).  Time limits vary from place to place (Though these time limits are often extended when goods are not received), so get on it ASAP.
+7. A a final step, stop shopping with firms that use Lasership entirely.  These firms do not care about you or your experiences.  If they did, it stands to reason, they would take action against egregious claims made against Lasership and dump them as a logistics partner.  What they care about is your money.  What this means is if you give up on online orders and still shop with them, they will keep using Lasership.  Send a clear message with your hard-earned money and time.
 
 # The List
 The list is unordered, use search capabilities in your browser to look for merchants.
@@ -84,3 +85,5 @@ The list is unordered, use search capabilities in your browser to look for merch
 * Lids 
 * UniqLo
 * Fanatics
+* Crocs
+* Bed Bath & Beyond
